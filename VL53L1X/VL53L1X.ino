@@ -5,6 +5,7 @@ VL53L1X sensor; //Create the sensor object
 
 int startTime = millis(); //used for our timing loop
 int mInterval = 100; //refresh rate of 10hz
+
 void setup() {
 
     Serial.begin(57600);
