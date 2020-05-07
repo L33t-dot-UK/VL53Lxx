@@ -29,7 +29,7 @@ void setup() {
 
 void loop() {
     //We have to be careful here. If we request a measurement before the measurement has been taken your
-    //code will be blovked until the measurement is complete. In order to stop this from happening we
+    //code will be blocked until the measurement is complete. In order to stop this from happening we
     //must ensure that time between measurement requests is greater than the timing budget and the argument 
     //given in the startContinuous() function. In our case our measurement time must be greater than 50mS.
 
