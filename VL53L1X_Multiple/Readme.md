@@ -1,4 +1,4 @@
-# VL53L1X Example Code
+# VL53L1X Multiple Example Code
 
 This code shows you how to get up and running with multiple VL53L1X sensors from ST Microelectronics using the Polou Library.
 The full tutorial can be viewed at;
