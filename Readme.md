@@ -5,4 +5,5 @@ It contains example code showing you how to use the L0 and L1 sensor and multipl
 
 The tutorials can be viewed at;
 
-https://www.l33t.uk/
+https://www.l33t.uk/ebay/getting-started-with-the-vl53l0x/
+https://www.l33t.uk/ebay/getting-started-with-the-vl53l1x/
