@@ -68,7 +68,7 @@ void setup() {
     }
     else
     {
-        sensor_B.setAddress(42); //Set the sensors I2C address
+        sensor_B.setAddress(43); //Set the sensors I2C address
         //SET THE SENSOR TO LONG RANGE MODE
         // lower the return signal rate limit (default is 0.25 MCPS)
         sensor_B.setSignalRateLimit(0.1);
